@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\bin\Debug\WW1Code.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\bin\Debug\WW1Code.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\bin\Debug\WW1Code.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\bin\Debug\FWWCode.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\bin\Debug\FWWCode.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\obj\Debug\App.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\obj\Debug\WW1Code.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\obj\Debug\WW1Code.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\obj\Debug\App.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\obj\Debug\WW1Code.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WW1Code\WW1Code\obj\Debug\WW1Code.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WW1Code\WW1Code\bin\Debug\Cezar.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WW1Code\WW1Code\bin\Debug\Cezar.pdb
